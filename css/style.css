@@ -1,0 +1,20 @@
+*{
+    background-color: gray;
+}
+h1
+{
+    color: aqua;
+}
+p.system
+{
+    color: khaki;
+}
+p
+{
+    color: purple;
+}
+.image
+{
+    width: 500px;
+    border-radius: 30px;
+}
